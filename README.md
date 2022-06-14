@@ -1,6 +1,6 @@
 ### Dependencies on your python package manager `pip`:
 - `python3`
-- `ipykernel`
+- `pip install ipykernel`
 - `pip install numpy`
 - `pip install matplotlib`
 - `pip install tqdm`
